@@ -1,0 +1,26 @@
+# Local generated validation output
+screenshots/
+requested_info.md
+
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+.cache/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
