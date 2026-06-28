@@ -1,0 +1,15 @@
+{
+  "name": "mc-square-ltd",
+  "version": "1.0.0",
+  "description": "MC Square Ltd - UK-registered software studio and product lab",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": ["software studio", "product lab", "mc square"],
+  "author": "MC Square Ltd",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
